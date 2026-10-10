@@ -7,7 +7,7 @@
 </p>
 
 ## 👋 About me
-Second-year BTech CSE student at VIT, specialising in Cyber Security and Digital Forensics.
+Second-year BTech CSE student at VIT BHOPAL UNIVERSITY, specialising in Cyber Security and Digital Forensics.
 I'm starting my cybersecurity journey from scratch, documenting every step publicly, and building a skill stack for internships and my own projects later on.
 
 ## 🎮 Quest log
